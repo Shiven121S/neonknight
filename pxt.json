@@ -12,7 +12,9 @@
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
         "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.0",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.0.11"
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.0.11",
+        "story": "github:riknoll/arcade-story#v1.3.1",
+        "sevenseg": "*"
     },
     "files": [
         "main.blocks",
@@ -23,7 +25,8 @@
         "images.g.ts",
         "main.py",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
